@@ -2,16 +2,17 @@
 ---
 > - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suntong-1221&show_icons=true)
 
+---
 ### I am atong
 
-- 🔭 **working:** 
-- 🌱 **I’m currently learning** 
-- 👯 **I’m looking to collaborate on** ...
-- 🤔 **I’m looking for help with** ...
-- 💬 **Ask me about** ...
-- 📫 **How to reach me:** ...
-- 😄 **Pronouns:** ...
-- ⚡ **Fun fact:** if you can't sleep well, you can get by.
+- 🔭 **working :** SDUT :school:
+- 🌱 **I’m currently learning :** linux&&cpp :computer:
+- 👯 **I’m looking to collaborate on :** Autonomous :blue_car:
+- 🤔 **I’m looking for help with :** none
+- 💬 **Ask me about :** As long as I know :eyes:
+- 📫 **How to reach me :** issue :raising_hand:
+- 😄 **Pronouns :** atong
+- ⚡ **Fun fact :** if you can't sleep well, you can get by.
 
 ---
 ### Programming Language
