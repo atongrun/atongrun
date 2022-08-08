@@ -10,9 +10,7 @@
 
 ---
 ### 仓库信息
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=suntong-1221&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suntong-1221&hide_title=true&hide_border=true&layout=compact" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=suntong-1221&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,F3FA7,F3FDFF,A783FF,D783FF&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suntong-1221&hide_title=true&hide_border=true&layout=compact&bg_color=0,63FA7,73FDFF,D783FF&theme=graywhite&locale=cn" />
+
 
 ---
-
-
-
