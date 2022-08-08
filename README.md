@@ -1,22 +1,18 @@
-### Hi there 👋
+### 各位小伙伴们大家好，这里是atong的主页 👋
 ---
-> - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suntong-1221&show_icons=true)
+### I am atong✨
 
----
-### I am atong
-
-- 🔭 **working :** SDUT :school:
-- 🌱 **I’m currently learning :** linux&&cpp :computer:
-- 👯 **I’m looking to collaborate on :** Autonomous :blue_car:
-- 🤔 **I’m looking for help with :** none
-- 💬 **Ask me about :** As long as I know :eyes:
-- 📫 **How to reach me :** issue :raising_hand:
-- 😄 **Pronouns :** atong
-- ⚡ **Fun fact :** if you can't sleep well, you can get by.
+- 🔭 一个菜鸡研究生（希望毕业顺利）
+- 🌱  视频：<a href="https://space.bilibili.com/385227660?spm_id_from=333.1007.0.0" target="_blank">B站 atong</a> | 抖音 atong
+- 🤔 方向：EMS | 智能驾驶
+- 💬 问题：<a href="https://www.zhihu.com/people/qian-lan-wa" target="_blank">知乎 @atong</a>
+- ⚡ 个签：万千不如意，睡得着就过的去。 
 
 ---
-### Programming Language
+### 仓库信息
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=suntong-1221&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suntong-1221&hide_title=true&hide_border=true&layout=compact" />
+
+---
 
 
-  >- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suntong-1221&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
