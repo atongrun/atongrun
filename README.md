@@ -1,6 +1,7 @@
 ### 各位小伙伴们大家好，这里是我的github的主页 👋
 ---
 ### I am atong✨
+![Profile View Counter](https://komarev.com/ghpvc/?username=suntong-1221)
 
 - 🔭 一个菜鸡研究生（希望毕业顺利）
 - 🌱  视频：<a href="https://space.bilibili.com/385227660?spm_id_from=333.1007.0.0" target="_blank">B站 atong</a> | 抖音 atong
