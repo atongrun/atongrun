@@ -2,6 +2,8 @@
 
 <p>
 
+[![zhihu](https://img.shields.io/badge/zhihu-%E7%99%BD%E9%9B%BE%E8%8C%AB%E8%8C%AB%E4%B8%B6-1e80ff?logo=bytedance)](https://www.zhihu.com/people/qian-lan-wa)
+[![Github Stars](https://img.shields.io/github/stars/suntong-1221?color=blueviolet&label=github%20stars&logo=github)](https://github.com/suntong-1221)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=suntong-1221)
 
   <p align="center">
