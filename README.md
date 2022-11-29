@@ -1,6 +1,7 @@
-### 各位小伙伴们大家好，这里是我的github的主页 👋
----
-### I am atong✨
+# Hey, I'm atong :wave:
+
+<p>
+
 ![Profile View Counter](https://komarev.com/ghpvc/?username=suntong-1221)
 
   <p align="center">
@@ -15,7 +16,11 @@
 - 💬 问题：<a href="https://www.zhihu.com/people/qian-lan-wa" target="_blank">知乎 @atong</a>
 - ⚡ 个签：万千不如意，睡得着就过的去。 
 
----
-### 仓库信息
+</p>
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=suntong-1221&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suntong-1221&hide_title=true&hide_border=true&layout=compact&locale=cn" />
+## Project Analysis :point_down:
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=suntong-1221&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Cyan's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suntong-1221&layout=compact&theme=buefy&hide_border=true" /> |
+| ------------- | ------------- |
+
+![](https://github-profile-trophy.vercel.app/?username=Cyan-Xmw&theme=flat&column=7&margin-w=10)
