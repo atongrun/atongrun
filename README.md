@@ -1,3 +1,20 @@
+<!-- 动态打字效果 -->
+<h1 align="center">
+  <a href="www.atong.run">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;欢迎来到孙大统的主页!&center=true&size=27">
+  </a>
+</h1>
+
+<!-- 敲代码的图片 -->
+<div align="center" ><img order-radius="100px" src="https://tong-1306822294.cos.ap-beijing.myqcloud.com/tong/picture/202212222312468.gif"/></div>
+<br>
+
+<!-- 贪吃蛇代码贡献图 -->
+<div align="center"><img src="https://tong-1306822294.cos.ap-beijing.myqcloud.com/tong/picture/202212222311275.svg" /></div>
+
+
+
+
 # Hey, I'm atong :wave:
 
 <p>
