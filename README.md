@@ -16,6 +16,10 @@
 
 
 # Hey, I'm atong 🙋
+<!-- 敲代码的图片 -->
+<div align="center" ><img order-radius="100px" src="https://tong-1306822294.cos.ap-beijing.myqcloud.com/tong/picture/202212222312468.gif"/></div>
+<br>
+
 <!-- 个人资料徽标 -->
 <div align="center">
   <a href="https://www.atong.run"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
@@ -24,11 +28,7 @@
   <a href="https://www.zhihu.com/people/qian-lan-wa"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 <!-- 访客数统计徽标 -->
   <img src="https://visitor-badge.glitch.me/badge?page_id=atongrun" alt="访客统计" /></div>
-
-<!-- 敲代码的图片 -->
-<div align="center" ><img order-radius="100px" src="https://tong-1306822294.cos.ap-beijing.myqcloud.com/tong/picture/202212222312468.gif"/></div>
-<br>
-
+  
 ## About Me :raised_hands:
 
 - 🔭 一个菜鸡研究生（希望毕业顺利）
