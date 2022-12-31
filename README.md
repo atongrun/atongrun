@@ -39,9 +39,9 @@
 
 ## Orientation :dart:
 
-coding. :heart:
+- :heart: coding. 
 
-nothing. :heart:
+- :heart: nothing. 
 
 <p>
 
