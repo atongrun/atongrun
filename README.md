@@ -52,6 +52,17 @@ nothing. :heart:
   
 </p>
 
+
+## Link 🔗
+
+- 🟡 [公众号](https://open.weixin.qq.com/qr/code?username=gh_0775e1b16e93)
+- 🔴 [B站](https://space.bilibili.com/385227660?spm_id_from=333.1007.0.0)
+- 🟢 [掘金](https://juejin.cn/user/1069181981179501)
+- 🟣 [github](https://github.com/atongrun)
+- 🟤 [知乎](https://www.zhihu.com/people/qian-lan-wa)
+
+
+
 ## Project Analysis :point_down:
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=atongrun&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Cyan's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atongrun&layout=compact&theme=buefy&hide_border=true" /> |
