@@ -5,13 +5,14 @@
   </a>
 </h1>
 
-  <p align="center">
-    Visitor count<br><img src="https://profile-counter.glitch.me/atongrun/count.svg" />
-</p>
-
 
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://tong-1306822294.cos.ap-beijing.myqcloud.com/tong/picture/202212222311275.svg" /></div>
+
+
+  <p align="center">
+    Visitor count<br><img src="https://profile-counter.glitch.me/atongrun/count.svg" />
+</p>
 
 
 
