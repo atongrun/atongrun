@@ -57,7 +57,7 @@
 ## Link 🔗
 
 
-- 🟣 [赚杯奶茶](http://atong.run/2023/01/19/%E5%89%AF%E4%B8%9A/%E9%9B%B6%E8%8A%B1%E9%92%B1/)
+- 🟣 [赚杯奶茶](https://mp.weixin.qq.com/s/udHO4nB0ksr5Rx-8Wv1Uzg)
 - 🟡 [公众号](https://open.weixin.qq.com/qr/code?username=gh_0775e1b16e93)
 - 🔴 [B站](https://space.bilibili.com/385227660?spm_id_from=333.1007.0.0)
 - 🟢 [掘金](https://juejin.cn/user/1069181981179501)
