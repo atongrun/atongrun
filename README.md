@@ -70,4 +70,4 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=atongrun&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Cyan's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atongrun&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
-![](https://github-profile-trophy.vercel.app/?username=Cyan-Xmw&theme=flat&column=7&margin-w=10)
+![](https://github-profile-trophy.vercel.app/?username=atongrun&theme=flat&column=7&margin-w=10)
