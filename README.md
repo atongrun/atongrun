@@ -7,7 +7,7 @@
 
 
 <!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://tong-1306822294.cos.ap-beijing.myqcloud.com/tong/picture/202212222311275.svg" /></div>
+<div align="center"><img src="images/0b83c65db14ad73b875b7a69706638e56ebce1c2e3629d604bd3a8018058af17.svg" /></div>
 
 
   <p align="center">
@@ -15,10 +15,9 @@
 </p>
 
 
-
-## Hey, I'm atong 🙋
+## Hey ！ 🙋
 <!-- 敲代码的图片 -->
-<div align="center" ><img order-radius="100px" src="https://tong-1306822294.cos.ap-beijing.myqcloud.com/tong/picture/202212222312468.gif"/></div>
+<div align="center" ><img order-radius="100px" src="images/dffb9ec7bdd20aa6127f0c82916b4bbe1deabe68743148a4a1af79aa8dadc485.gif"/></div>
 <br>
 
 <!-- 个人资料徽标 -->
@@ -30,35 +29,19 @@
 <!-- 访客数统计徽标 -->
   <img src="https://visitor-badge.glitch.me/badge?page_id=atongrun" alt="访客统计" /></div>
   
-## About Me :raised_hands:
+## 简介 :raised_hands:
 
-- 🔭 一个菜鸡研究生（希望毕业顺利）
-- 🤔 方向：EMS | 智能驾驶
+- 🔭 一个双非的菜鸡研究生（希望毕业顺利）
+- 🤔 方向：新能源汽车
 - ⚡ 个签：万千不如意，睡得着就过的去。 
 
-</p>
 
-## Orientation :dart:
-
-- :heart: coding. 
-
-- :heart: nothing. 
-
-<p>
-
-![C/CPP](https://img.shields.io/badge/-CPP-red?logo=CPP&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-blue?logo=Python&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-yellow?logo=Linux&logoColor=white)
-![Matlab/Simulink](https://img.shields.io/badge/-Matlab-blue?logo=Matlab&logoColor=white)
-  
-</p>
+## 链接 🔗
 
 
-## Link 🔗
 
-
-- 🟣 [赚杯奶茶](https://mp.weixin.qq.com/s/udHO4nB0ksr5Rx-8Wv1Uzg)
 - 🟡 [公众号](https://open.weixin.qq.com/qr/code?username=gh_0775e1b16e93)
+- 🟣 [赚杯奶茶](https://mp.weixin.qq.com/s?__biz=MzkwMDM5NzYyOQ==&mid=2247484124&idx=1&sn=3428042e70fa9e81b4fe80d5b51b5eef&chksm=c045ed8ef732649871ab5c1601b577947d007dec55f36a0bccc5bb5f7f8b786473881f9878ea#rd)
 - 🔴 [B站](https://space.bilibili.com/385227660?spm_id_from=333.1007.0.0)
 - 🟢 [掘金](https://juejin.cn/user/1069181981179501)
 - 🟤 [知乎](https://www.zhihu.com/people/qian-lan-wa)
