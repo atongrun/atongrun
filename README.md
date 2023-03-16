@@ -28,7 +28,7 @@
 
 
 - 🟡 [公众号](https://open.weixin.qq.com/qr/code?username=gh_0775e1b16e93)
-- 🟣 [赚杯奶茶](https://mp.weixin.qq.com/s?__biz=MzkwMDM5NzYyOQ==&mid=2247484124&idx=1&sn=3428042e70fa9e81b4fe80d5b51b5eef&chksm=c045ed8ef732649871ab5c1601b577947d007dec55f36a0bccc5bb5f7f8b786473881f9878ea#rd)
+- 🟣 [赚杯奶茶](https://atong.run/posts/2137780596/)
 - 🔴 [B站](https://space.bilibili.com/385227660?spm_id_from=333.1007.0.0)
 - 🟢 [掘金](https://juejin.cn/user/1069181981179501)
 - 🟤 [知乎](https://www.zhihu.com/people/qian-lan-wa)
