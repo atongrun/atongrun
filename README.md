@@ -1,21 +1,3 @@
-<!-- 动态打字效果 -->
-<h1 align="center">
-  <a href="www.atong.run">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;欢迎来到孙菜菜的主页!&center=true&size=27">
-  </a>
-</h1>
-
-
-<!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="images/0b83c65db14ad73b875b7a69706638e56ebce1c2e3629d604bd3a8018058af17.svg" /></div>
-
-
-  <p align="center">
-    Visitor count<br><img src="https://profile-counter.glitch.me/atongrun/count.svg" />
-</p>
-
-
-## Hey ！ 🙋
 <!-- 敲代码的图片 -->
 <div align="center" ><img order-radius="100px" src="images/dffb9ec7bdd20aa6127f0c82916b4bbe1deabe68743148a4a1af79aa8dadc485.gif"/></div>
 <br>
@@ -29,6 +11,11 @@
 <!-- 访客数统计徽标 -->
   <img src="https://visitor-badge.glitch.me/badge?page_id=atongrun" alt="访客统计" /></div>
   
+<p align="center">
+    Visitor count<br><img src="https://profile-counter.glitch.me/atongrun/count.svg" />
+</p>
+
+
 ## 简介 :raised_hands:
 
 - 🔭 一个双非的菜鸡研究生（希望毕业顺利）
