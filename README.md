@@ -34,9 +34,6 @@
 - 🟤 [知乎](https://www.zhihu.com/people/qian-lan-wa)
 
 
-
-## Project Analysis :point_down:
-
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=atongrun&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Cyan's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atongrun&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
