@@ -26,7 +26,7 @@
 ## 链接 🔗
 
 
-
+- ✨ [彩蛋](https://atong.run/posts/3396067387/)
 - 🟡 [公众号](https://open.weixin.qq.com/qr/code?username=gh_0775e1b16e93)
 - 🟣 [赚杯奶茶](https://atong.run/posts/2137780596/)
 - 🔴 [B站](https://space.bilibili.com/385227660?spm_id_from=333.1007.0.0)
