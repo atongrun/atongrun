@@ -14,8 +14,3 @@
 - 🔴 [B站](https://space.bilibili.com/385227660?spm_id_from=333.1007.0.0)
 - 🟤 [知乎](https://www.zhihu.com/people/qian-lan-wa)
 - 🟣 [赚零花钱](https://atong.run/posts/2137780596/)
-
-
-<p align="center">
-    Visitor count<br><img src="https://profile-counter.glitch.me/atongrun/count.svg" />
-</p>
