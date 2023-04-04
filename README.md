@@ -1,12 +1,3 @@
-<!-- 敲代码的图片 -->
-<div align="center" ><img order-radius="100px" src="images/dffb9ec7bdd20aa6127f0c82916b4bbe1deabe68743148a4a1af79aa8dadc485.gif"/></div>
-<br>
-
-<p align="center">
-    Visitor count<br><img src="https://profile-counter.glitch.me/atongrun/count.svg" />
-</p>
-
-
 ## 简介 :raised_hands:
 
 - 🔭 一个双非的菜鸡研究生（希望毕业顺利）
@@ -24,3 +15,7 @@
 - 🟤 [知乎](https://www.zhihu.com/people/qian-lan-wa)
 - 🟣 [赚零花钱](https://atong.run/posts/2137780596/)
 
+
+<p align="center">
+    Visitor count<br><img src="https://profile-counter.glitch.me/atongrun/count.svg" />
+</p>
