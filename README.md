@@ -8,8 +8,7 @@
 
 ## 链接 🔗
 
-
-- ✨ [彩蛋](https://atong.run/posts/3396067387/)
+<!-- - ✨ [彩蛋](https://atong.run/posts/3396067387/) -->
 - 🟡 [公众号](https://open.weixin.qq.com/qr/code?username=gh_0775e1b16e93)
 - 🔴 [B站](https://space.bilibili.com/385227660?spm_id_from=333.1007.0.0)
 - 🟤 [知乎](https://www.zhihu.com/people/qian-lan-wa)
