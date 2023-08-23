@@ -2,9 +2,9 @@
 
 <img style="max-width: 450px" align="right" src="https://github-readme-stats.vercel.app/api?username=atongrun&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&include_all_commits=true&count_private=true&hide_rank=true" alt="atong's github stats"/>
 
-- 🔭 I am a graduate student at Shandong University of Technology.
-- ⚡ My research area is control of new energy vehicles.
-- 🌍 I am interested in computer technology, documenting life, and numerology.
+🔭 I am a graduate student at Shandong University of Technology.
+⚡ My research area is control of new energy vehicles.
+🌍 I am interested in computer technology, documenting life, and numerology.
 
 万千不如意，睡得着就过的去
 
