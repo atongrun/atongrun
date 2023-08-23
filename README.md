@@ -1,15 +1,13 @@
-## 简介 :raised_hands:
+### Hi I'm atong 👋
 
-- 🔭 个人：双非在读研究生
-- 🤔 方向：新能源汽车
-- ⚡ 个签：万千不如意，睡得着就过的去
-- 🌍 兴趣：计算机、周易、记录生活
+<img style="max-width: 450px" align="right" src="https://github-readme-stats.vercel.app/api?username=atongrun&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&include_all_commits=true&count_private=true&hide_rank=true" alt="atong's github stats"/>
 
+- 🔭 I am a graduate student at Shandong University of Technology.
+- ⚡ My research area is control of new energy vehicles.
+- 🌍 I am interested in computer technology, documenting life, and numerology.
 
-## 链接 🔗
+万千不如意，睡得着就过的去
 
-<!-- - ✨ [彩蛋](https://atong.run/posts/3396067387/) -->
-- 🟡 [公众号](https://open.weixin.qq.com/qr/code?username=gh_0775e1b16e93)
-- 🔴 [B站](https://space.bilibili.com/385227660?spm_id_from=333.1007.0.0)
-- 🟤 [知乎](https://www.zhihu.com/people/qian-lan-wa)
-- 🟣 [赚零花钱](https://atong.run/posts/2137780596/)
+- Read my [Blog](https://atong.run) to learn more about me
+- Talk with me by [Email](mailto:atongrun@outlook.com) or [Telegram](https://t.me/atongrun)
+- Follow me on [Twitter](https://twitter.com/atongrun) [bilibili](https://space.bilibili.com/385227660?spm_id_from=333.1007.0.0) or [zhihu](https://www.zhihu.com/people/qian-lan-wa)
