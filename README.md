@@ -1,7 +1,5 @@
 ### Hi I'm atong 👋
 
-I am a graduate student at Shandong University of Technology.
-My research field is new energy vehicle control.
 I am interested in computer technology, documenting life.
 
 万千不如意，睡得着就过的去
