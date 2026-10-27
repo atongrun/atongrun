@@ -3,6 +3,7 @@
 - Read my [Blog](https://atong.run) to learn more about me
 - Talk with me by [Email](mailto:atongrun@outlook.com) or [Telegram](https://t.me/atongrun)
 - Follow me on [Twitter](https://twitter.com/atongrun) [bilibili](https://space.bilibili.com/385227660?spm_id_from=333.1007.0.0) [zhihu](https://www.zhihu.com/people/qian-lan-wa) or [WeChat Official Accounts](https://open.weixin.qq.com/qr/code?username=gh_0775e1b16e93)
+- Check out [AI Buy](https://aibuy.bid/) for VPS recommendations
 
 [![atongrun's GitHub stats](https://github-immortality.vercel.app/api?username=atongrun)](https://atong.run)
 
